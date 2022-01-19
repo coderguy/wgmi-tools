@@ -23,6 +23,7 @@ const MNEMONIC = process.env.MNEMONIC || console.log("Missing .env variable - MN
 const REPORT_GAS = process.env.REPORT_GAS === "true";
 const REPORT_GAS_PRICE = process.env.REPORT_GAS_PRICE || 21;
 
+require("./tasks/accounts")
 
 module.exports = {
   solidity: {
