@@ -1,0 +1,16 @@
+build
+node_modules
+package-lock.json
+
+coverage.json
+coverage/
+
+.env
+data/*
+
+#Hardhat files
+cache
+artifacts
+
+#system files
+.DS_Store
