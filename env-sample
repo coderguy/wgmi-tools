@@ -1,0 +1,22 @@
+# get these from infura
+KOVAN_RPC_URL='aaaaaaaaaaaaa'
+RINKEBY_RPC_URL='aaaaaaaaaaaaa'
+ROPSTEN_RPC_URL='aaaaaaaaaaaaa'
+GOERLI_RPC_URL='aaaaaaaaaaaaa'
+MAINNET_RPC_URL='aaaaaaaaaaaaa'
+# get this from alchemy
+POLYGON_MAINNET_RPC_URL='aaaaaaaaaaaaa'
+
+# keys for deployments
+TEST_PRIVATE_KEY='aaaaaaaaaaaaa'
+PRIVATE_KEY='aaaaaaaaaaaaa'
+# generate these here - https://iancoleman.io/bip39/
+TEST_MNEMONIC='aaaaaaaaaaaaa'
+MNEMONIC='aaaaaaaaaaaaa'
+
+# developer settings
+REPORT_GAS=false
+REPORT_GAS_PRICE=21
+
+# for verifing contracts
+ETHERSCAN_API_KEY='aaaaaaaaaaa'
